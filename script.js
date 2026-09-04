@@ -261,13 +261,13 @@ function trocarImagem(escolha) {
           descrevefigura.innerText="Imagem da RedeCósmica do Universo ";
           break;
         case "2":
-          urlNova = 'café.png';
-          textoprincipal.innerText="Como explicar o Sol?";
+          urlNova = 'IMG-20260904-WAOOO9.jpg';
+          textoprincipal.innerText="Como explicar o Multiverso?";
           texto.innerText="paragrafo";
-          descrevefigura.innerText="Imagem do Sol na cor amarela ";
+          descrevefigura.innerText="Imagem do multiverso ";
           break;
         case "3":
-          urlNova = 'café.png';
+          urlNova = 'IMG-20260828-WAOOO11(1).jpg';
           textoprincipal.innerText="Como explicar o Sol?";
           texto.innerText="paragrafo";
           descrevefigura.innerText="Imagem do Sol na cor amarela ";
