@@ -268,13 +268,13 @@ function trocarImagem(escolha) {
           break;
         case "3":
           urlNova = 'IMG-20260828-WAOOO11(1).jpg';
-          textoprincipal.innerText="Como explicar o Sol?";
+          textoprincipal.innerText="O que são constelações?";
           texto.innerText="paragrafo";
-          descrevefigura.innerText="Imagem do Sol na cor amarela ";
+          descrevefigura.innerText="Imagem de ";
           break;
         case "4":
-          urlNova = 'café.png';
-          textoprincipal.innerText="Como explicar o Sol?";
+          urlNova = 'IMG-20260828-WAOOO9.jpg';
+          textoprincipal.innerText="O que é o Universo Morto?";
           texto.innerText="paragrafo";
           descrevefigura.innerText="Imagem do Sol na cor amarela ";
           break;
