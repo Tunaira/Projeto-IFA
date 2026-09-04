@@ -255,9 +255,9 @@ function trocarImagem(escolha) {
     const imagemnova=document.getElementById('imagemPrincipal');
     switch(escolha){
         case "1":
-          urlNova = ' content://media/external/downloads/1000000062';
+          urlNova = 'images.jpeg';
           textoprincipal.innerText="Como explicar a Rede Cósmica?";
-          texto.innerText="paragrafo";
+          texto.innerText="Se olharmos para o Universo a uma grande distância, vemos que as galáxias não estão espalhadas de forma aleatória pelo espaço. Na realidade, elas se organizam em uma gigantesca teia tridimensional conhecida como Rede Cósmica e ela é formada por longos filamentos de gás, e matéria escura, que funcionam como verdadeiras autoestradas espaciais, transportando matéria até os pontos de cruzamento, onde milhares de galáxias se aglomeram. Entre esses filamentos existem imensas bolhas de espaço quase totalmente vazias, conhecidas como vazios cósmicos. O que constrói e mantém toda essa teia é a gravidade, impulsionada principalmente pela matéria escura, que atua como uma estrutura invisível moldando e conectando todo o cosmos desde os primeiros momentos após o Big Bang.";
           descrevefigura.innerText="Imagem da RedeCósmica do Universo ";
           break;
         case "2":
