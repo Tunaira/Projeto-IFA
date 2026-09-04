@@ -255,7 +255,7 @@ function trocarImagem(escolha) {
     const imagemnova=document.getElementById('imagemPrincipal');
     switch(escolha){
         case "1":
-          urlNova = 'images (1).jpeg';
+          urlNova = ' content://media/external/downloads/1000000062';
           textoprincipal.innerText="Como explicar a Rede Cósmica?";
           texto.innerText="paragrafo";
           descrevefigura.innerText="Imagem da RedeCósmica do Universo ";
