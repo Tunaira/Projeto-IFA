@@ -255,10 +255,10 @@ function trocarImagem(escolha) {
     const imagemnova=document.getElementById('imagemPrincipal');
     switch(escolha){
         case "1":
-          urlNova = 'café.png';
-          textoprincipal.innerText="Como explicar o Sol?";
+          urlNova = 'images (1).jpeg';
+          textoprincipal.innerText="Como explicar a Rede Cósmica?";
           texto.innerText="paragrafo";
-          descrevefigura.innerText="Imagem do Sol na cor amarela ";
+          descrevefigura.innerText="Imagem da RedeCósmica do Universo ";
           break;
         case "2":
           urlNova = 'café.png';
