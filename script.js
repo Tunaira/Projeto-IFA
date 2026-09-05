@@ -261,19 +261,19 @@ function trocarImagem(escolha) {
           descrevefigura.innerText="Imagem da RedeCósmica do Universo ";
           break;
         case "2":
-          urlNova = "IMG-20260904-WAOOO9.jpg";
+          urlNova = "images(2).jpeg";
           textoprincipal.innerText="Como explicar o Multiverso?";
           texto.innerText="Propondo que partes do espaço se expandem rapidamente.O multiverso é a hipótese cosmológica de que o nosso universo não seria único, mas sim a parte de um conjunto infinito de universos paralelos coexistentes, cada um deles possuindo suas próprias realidades, dimensões e leis da física. Juntos, esses universos compreendem tudo o que existe a totalidade do espaço, do tempo, da matéria, da energia e das leis ";
           descrevefigura.innerText="Imagem do multiverso ";
           break;
         case "3":
-          urlNova = "IMG-20260828-WAOOO11(1).jpg";
+          urlNova = "images(3).jpg";
           textoprincipal.innerText="O que são constelações?";
           texto.innerText="paragrafo";
           descrevefigura.innerText="Imagem de ";
           break;
         case "4":
-          urlNova = "IMG-20260828-WAOOO9.jpg";
+          urlNova = "images(4).jpg";
           textoprincipal.innerText="O que é o Universo Morto?";
           texto.innerText="O Universo Morto refere-se à hipotética fase final do cosmos, fruto da sua expansão contínua ao longo de trilhões de anos. Nesse estágio, todas as estrelas já consumiram seu combustível e se apagaram, impossibilitando a formação de novos corpos celestes. Sem fontes de calor ou energia e com a matéria completamente dispersa, o espaço atinge a entropia máxima e se torna um lugar vasto, escuro e próximo do zero absoluto, onde não existe movimento, transformação ou qualquer possibilidade de vida.";
           descrevefigura.innerText="Imagem do universo morto";
