@@ -261,19 +261,19 @@ function trocarImagem(escolha) {
           descrevefigura.innerText="Imagem da RedeCósmica do Universo ";
           break;
         case "2":
-          urlNova = "images(2).jpeg";
+          urlNova = 'images(2).jpeg';
           textoprincipal.innerText="Como explicar o Multiverso?";
-          texto.innerText="Propondo que partes do espaço se expandem rapidamente.O multiverso é a hipótese cosmológica de que o nosso universo não seria único, mas sim a parte de um conjunto infinito de universos paralelos coexistentes, cada um deles possuindo suas próprias realidades, dimensões e leis da física. Juntos, esses universos compreendem tudo o que existe a totalidade do espaço, do tempo, da matéria, da energia e das leis ";
+          texto.innerText="Propondo que partes do espaço se expandem rapidamente.O multiverso é a hipótese cosmológica de que o nosso universo não seria único, mas sim a parte de um conjunto infinito de universos paralelos coexistentes, cada um deles possuindo suas próprias realidades, dimensões e leis da física. Juntos, esses universos compreendem tudo o que existe a totalidade do espaço, do tempo, da matéria, da energia e das leis "; 
           descrevefigura.innerText="Imagem do multiverso ";
           break;
         case "3":
-          urlNova = "images(3).jpg";
+          urlNova = 'images(3).jpeg';
           textoprincipal.innerText="O que são constelações?";
-          texto.innerText="paragrafo";
+          texto.innerText="As constelações são agrupamentos aparentes de estrelas no céu noturno que a humanidade organizou em formas e figuras ao longo dos milênios. Embora essas estrelas pareçam próximas umas das outras quando vistas da Terra, elas estão na verdade separadas por imensas distâncias tridimensionais no espaço e não possuem ligação física entre si. Essas conexões imaginárias funcionaram historicamente como um mapa fundamental para orientar navegadores, marcar o tempo das colheitas e preservar tradições e mitologias através das gerações.";
           descrevefigura.innerText="Imagem de ";
           break;
         case "4":
-          urlNova = "images(4).jpg";
+          urlNova = 'images(4).jpeg';
           textoprincipal.innerText="O que é o Universo Morto?";
           texto.innerText="O Universo Morto refere-se à hipotética fase final do cosmos, fruto da sua expansão contínua ao longo de trilhões de anos. Nesse estágio, todas as estrelas já consumiram seu combustível e se apagaram, impossibilitando a formação de novos corpos celestes. Sem fontes de calor ou energia e com a matéria completamente dispersa, o espaço atinge a entropia máxima e se torna um lugar vasto, escuro e próximo do zero absoluto, onde não existe movimento, transformação ou qualquer possibilidade de vida.";
           descrevefigura.innerText="Imagem do universo morto";
