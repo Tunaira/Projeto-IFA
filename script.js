@@ -263,7 +263,7 @@ function trocarImagem(escolha) {
         case "2":
           urlNova = 'IMG-20260904-WAOOO9.jpg';
           textoprincipal.innerText="Como explicar o Multiverso?";
-          texto.innerText="paragrafo";
+          texto.innerText="Propondo que partes do espaço se expandem rapidamente.O multiverso é a hipótese cosmológica de que o nosso universo não seria único, mas sim a parte de um conjunto infinito de universos paralelos coexistentes, cada um deles possuindo suas próprias realidades, dimensões e leis da física. Juntos, esses universos compreendem tudo o que existe a totalidade do espaço, do tempo, da matéria, da energia e das leis ";
           descrevefigura.innerText="Imagem do multiverso ";
           break;
         case "3":
